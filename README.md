@@ -66,3 +66,20 @@ there live the blind texts.
 </p>
 ```
 
+## Ordered lists
+```html
+<ol>
+  <li>
+    fox
+  </li>
+  <li>
+    cat
+  </li>
+  <li>
+    dog
+  </li>
+  <li>
+    rabbit
+  </li>
+</ol>
+```
