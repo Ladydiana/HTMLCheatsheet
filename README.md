@@ -130,3 +130,10 @@ there live the blind texts.
     <h1>HTML Cheatsheet</h1>
 </header>
 ```
+
+## Footer
+```html
+<footer>
+        <p>HTML Cheatsheet via Ladydiana on Github</p>
+    </footer>
+```
