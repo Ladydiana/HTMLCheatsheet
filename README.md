@@ -121,5 +121,12 @@ there live the blind texts.
 
 ## Link
 ```html
-<a href="https://github.com/Ladydiana/HTMLCheatsheet" target="_blank" title="HTML Cheatsheet">HTMLCheatsheet</a>
+<a href="https://github.com/Ladydiana/HTMLCheatsheet" target="_blank" title="HTML Cheatsheet">HTML Cheatsheet</a>
+```
+
+## Header
+```html
+<header class="page-header">
+    <h1>HTML Cheatsheet</h1>
+</header>
 ```
