@@ -59,4 +59,10 @@ far from the countries Vokalia and Consonantia,
 there live the blind texts.
 ```
 
+## Paragraph
+```html
+<p>
+  A wizard’s job is to vex chumps quickly in fog.
+</p>
+```
 
