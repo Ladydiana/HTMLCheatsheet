@@ -14,3 +14,8 @@
 </html>
 ```
 
+## Comment
+```html
+<!-- this is a comment -->
+```
+
