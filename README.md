@@ -19,3 +19,22 @@
 <!-- this is a comment -->
 ```
 
+## Line Break
+```html
+The quick, brown fox <br />
+jumps over <br />
+a lazy dog.
+```
+
+## Horizontal Rule
+```html
+Far far away,
+<hr />
+behind the word mountains,
+<hr />
+far from the countries Vokalia and Consonantia,
+<hr />
+there live the blind texts.
+```
+
+
