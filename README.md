@@ -137,3 +137,11 @@ there live the blind texts.
         <p>HTML Cheatsheet via Ladydiana on Github</p>
     </footer>
 ```
+
+## Section
+```html
+<section class="html-information">
+    <h2>Pangram</h2>
+    <p>The quick, brown fox jumps over a lazy dog.</p>
+</section>
+```
