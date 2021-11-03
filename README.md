@@ -101,3 +101,20 @@ there live the blind texts.
   </li>
 </ul>
 ```
+
+## Nested lists 
+```html
+<ul>
+  <li>Wolf</li>
+  <li>Fox</li>
+  <li>
+    <strong>Bird</strong>
+    <br />
+    <ul>
+      <li>Duck</li>
+      <li>Chicken</li>
+      <li>Turkey</li>
+    </ul>
+  </li>
+</ul>
+```
