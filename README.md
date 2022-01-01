@@ -145,3 +145,8 @@ there live the blind texts.
     <p>The quick, brown fox jumps over a lazy dog.</p>
 </section>
 ```
+
+## Span
+```html
+<span class="class-1">Let's keep this in a class for easy formatting.</span>
+```
