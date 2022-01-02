@@ -150,3 +150,8 @@ there live the blind texts.
 ```html
 <span class="class-1">Let's keep this in a class for easy formatting.</span>
 ```
+
+## Div
+```html
+<div class="class-2">Let's also keep this in a class for easy formatting.</div>
+```
