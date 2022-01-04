@@ -155,3 +155,8 @@ there live the blind texts.
 ```html
 <div class="class-2">Let's also keep this in a class for easy formatting.</div>
 ```
+
+## Header
+<header class="page-header">
+    <h1>Grouping the intro. No styling.</h1>
+</header>
