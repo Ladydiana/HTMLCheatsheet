@@ -160,3 +160,8 @@ there live the blind texts.
 <header class="page-header">
     <h1>Grouping the intro. No styling.</h1>
 </header>
+
+## Footer
+<footer>
+    <p>Footer info (Copyright, Author, Year, etc.). No styling.</p>
+</footer>
