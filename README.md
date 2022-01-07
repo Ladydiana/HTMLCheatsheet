@@ -132,6 +132,10 @@ there live the blind texts.
 <a href="https://github.com/Ladydiana/HTMLCheatsheet" target="_blank" title="HTML Cheatsheet">HTML Cheatsheet</a>
 ```
 
+## Image
+```html
+<img src="https://cdn.britannica.com/q:60/91/181391-050-1DA18304/cat-toes-paw-number-paws-tiger-tabby.jpg" alt="Polydactyl kitty" width="600" />
+```
 
 # Containers
 
