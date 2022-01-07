@@ -150,14 +150,18 @@ there live the blind texts.
 # Containers
 
 ### Header
+```html
 <header class="page-header">
     <h1>Grouping the intro. No styling.</h1>
 </header>
+```
 
 ### Footer
+```html
 <footer>
     <p>Footer info (Copyright, Author, Year, etc.). No styling.</p>
 </footer>
+```
 
 ### Section
 ```html
