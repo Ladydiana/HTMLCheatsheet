@@ -211,3 +211,10 @@ there live the blind texts.
 </form>
 ```
 
+### Button
+```html
+<button class="button1">
+  Login!
+</button>
+```
+
