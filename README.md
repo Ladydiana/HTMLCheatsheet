@@ -222,6 +222,11 @@ there live the blind texts.
 
 ### Class
 ```html
-<a href="https://github.com/Ladydiana" class="git-repo-url">Github</a>
+<a href="https://github.com/Ladydiana" class="css-git-repo-url">Github</a>
 ```
 
+
+### IDs
+```html
+<a href="https://github.com/Ladydiana" id="js-git-repo-url-id">Github</a>
+```
