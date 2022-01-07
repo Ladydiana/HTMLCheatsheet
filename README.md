@@ -181,3 +181,7 @@ there live the blind texts.
 <div class="class-2">Let's also keep this in a class for easy formatting.</div>
 ```
 
+# Style
+### Bold
+<strong>This is bold text.</strong>
+
