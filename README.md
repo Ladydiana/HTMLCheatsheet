@@ -189,3 +189,7 @@ there live the blind texts.
 ### Italic
 <em>This is italic text.</em>
 
+### Small
+<small>This is smaller text.</small>
+
+
