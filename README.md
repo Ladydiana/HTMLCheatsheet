@@ -218,3 +218,10 @@ there live the blind texts.
 </button>
 ```
 
+# Attributes
+
+### Class
+```html
+<a href="https://github.com/Ladydiana" class="git-repo-url">Github</a>
+```
+
