@@ -265,6 +265,10 @@ Please insert your review here.
 </textarea>
 ```
 
+### Text
+<label for="name">Full Name:</label>
+<input type="text" id="name" />
+
 # Attributes
 
 ### Class
