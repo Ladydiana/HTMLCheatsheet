@@ -282,3 +282,10 @@ there live the blind texts.
 </head>
 ```
 
+### External
+```html
+<head>
+    <link rel="stylesheet" href="style.css" />
+</head>
+```
+
