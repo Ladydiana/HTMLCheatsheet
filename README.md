@@ -1,6 +1,6 @@
 # Structure
 
-## Page structure
+### Page structure
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -16,7 +16,7 @@
 </html>
 ```
 
-## Headings
+### Headings
 ```html
 <h1>
   HTML
@@ -38,21 +38,21 @@
 </h6>
 ```
 
-## Comment
+### Comment
 ```html
 <!-- this is a comment -->
 ```
 
 # Separators
 
-## Line Break
+### Line Break
 ```html
 The quick, brown fox <br />
 jumps over <br />
 a lazy dog.
 ```
 
-## Horizontal Rule
+### Horizontal Rule
 ```html
 Far far away,
 <hr />
@@ -63,7 +63,7 @@ far from the countries Vokalia and Consonantia,
 there live the blind texts.
 ```
 
-## Paragraph
+### Paragraph
 ```html
 <p>
   A wizard’s job is to vex chumps quickly in fog.
@@ -72,7 +72,7 @@ there live the blind texts.
 
 # Lists 
 
-## Ordered lists
+### Ordered lists
 ```html
 <ol>
   <li>
@@ -90,7 +90,7 @@ there live the blind texts.
 </ol>
 ```
 
-## Unordered lists
+### Unordered lists
 ```html
 <ul>
   <li>
@@ -108,7 +108,7 @@ there live the blind texts.
 </ul>
 ```
 
-## Nested lists 
+### Nested lists 
 ```html
 <ul>
   <li>Wolf</li>
@@ -127,35 +127,39 @@ there live the blind texts.
 
 # Media
 
-## Link
+### Link
 ```html
 <a href="https://github.com/Ladydiana/HTMLCheatsheet" target="_blank" title="HTML Cheatsheet">HTML Cheatsheet</a>
 ```
 
-## Image
+### Image
 ```html
 <img src="https://cdn.britannica.com/q:60/91/181391-050-1DA18304/cat-toes-paw-number-paws-tiger-tabby.jpg" alt="Polydactyl kitty" width="600" />
 ```
 
-## Audio
+### Audio
+```html
 <audio controls src="https://upload.wikimedia.org/wikipedia/commons/6/62/Meow.ogg"></audio>
+```
 
-## Video
+### Video
+```html
 <video src="https://www.youtube.com/watch?v=My2puqWOVqw" controls></video>
+```
 
 # Containers
 
-## Header
+### Header
 <header class="page-header">
     <h1>Grouping the intro. No styling.</h1>
 </header>
 
-## Footer
+### Footer
 <footer>
     <p>Footer info (Copyright, Author, Year, etc.). No styling.</p>
 </footer>
 
-## Section
+### Section
 ```html
 <section class="html-information">
     <h2>Pangram</h2>
@@ -163,12 +167,12 @@ there live the blind texts.
 </section>
 ```
 
-## Span
+### Span
 ```html
 <span class="class-1">Let's keep this in a class for easy formatting.</span>
 ```
 
-## Div
+### Div
 ```html
 <div class="class-2">Let's also keep this in a class for easy formatting.</div>
 ```
