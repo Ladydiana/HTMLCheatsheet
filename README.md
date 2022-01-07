@@ -303,3 +303,16 @@ Please insert your review here.
 </head>
 ```
 
+# JS
+### Internal
+```html
+<body>
+  <h1>
+    H1
+  </h1>
+  <script>
+    alert("Hello World!");
+  </script>
+</body>
+```
+
