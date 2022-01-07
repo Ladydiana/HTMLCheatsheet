@@ -1,3 +1,5 @@
+# Contents
+
 - [Structure](#structure)
     + [Page structure](#page-structure)
     + [Headings](#headings)
