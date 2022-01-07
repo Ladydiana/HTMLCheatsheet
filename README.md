@@ -266,8 +266,10 @@ Please insert your review here.
 ```
 
 ### Text
+```html
 <label for="name">Full Name:</label>
 <input type="text" id="name" />
+```
 
 # Attributes
 
