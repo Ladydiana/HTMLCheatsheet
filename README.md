@@ -257,6 +257,14 @@ there live the blind texts.
 </button>
 ```
 
+### Textarea
+```html
+<label for="texta">Your Review:</label>
+<textarea id="texta" name="texta" rows="4" cols="30">
+Please insert your review here.
+</textarea>
+```
+
 # Attributes
 
 ### Class
