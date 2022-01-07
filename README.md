@@ -184,12 +184,17 @@ there live the blind texts.
 # Style
 
 ### Bold
+```html
 <strong>This is bold text.</strong>
+```
 
 ### Italic
+```html
 <em>This is italic text.</em>
+```
 
 ### Small
+```html
 <small>This is smaller text.</small>
-
+```
 
