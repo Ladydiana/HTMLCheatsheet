@@ -30,11 +30,21 @@
 - [Inputs](#inputs)
     + [Form](#form)
     + [Button](#button)
+    + [Textarea](#textarea)
+    + [Text](#text)
 - [Attributes](#attributes)
     + [Class](#class)
     + [IDs](#ids)
+- [CSS](#css)
+    + [Internal](#internal)
+    + [External](#external)
+- [JS](#js)
+    + [Internal](#internal-1)
+    + [External](#external-1)
 
 
+
+--------------------------------
 
 
 # Structure
