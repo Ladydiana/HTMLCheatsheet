@@ -182,6 +182,10 @@ there live the blind texts.
 ```
 
 # Style
+
 ### Bold
 <strong>This is bold text.</strong>
+
+### Italic
+<em>This is italic text.</em>
 
