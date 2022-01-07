@@ -304,6 +304,7 @@ Please insert your review here.
 ```
 
 # JS
+
 ### Internal
 ```html
 <body>
@@ -313,6 +314,16 @@ Please insert your review here.
   <script>
     alert("Hello World!");
   </script>
+</body>
+```
+
+### External
+```html
+<body>
+  <h1>
+    H1
+  </h1>
+  <script src="script.js"></script>
 </body>
 ```
 
