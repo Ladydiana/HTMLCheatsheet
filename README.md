@@ -1,3 +1,5 @@
+# Structure
+
 ## Page structure
 ```html
 <!DOCTYPE html>
@@ -41,6 +43,8 @@
 <!-- this is a comment -->
 ```
 
+# Separators
+
 ## Line Break
 ```html
 The quick, brown fox <br />
@@ -65,6 +69,8 @@ there live the blind texts.
   A wizard’s job is to vex chumps quickly in fog.
 </p>
 ```
+
+# Lists 
 
 ## Ordered lists
 ```html
@@ -119,24 +125,25 @@ there live the blind texts.
 </ul>
 ```
 
+# Media
+
 ## Link
 ```html
 <a href="https://github.com/Ladydiana/HTMLCheatsheet" target="_blank" title="HTML Cheatsheet">HTML Cheatsheet</a>
 ```
 
+
+# Containers
+
 ## Header
-```html
 <header class="page-header">
-    <h1>HTML Cheatsheet</h1>
+    <h1>Grouping the intro. No styling.</h1>
 </header>
-```
 
 ## Footer
-```html
 <footer>
-        <p>HTML Cheatsheet via Ladydiana on Github</p>
-    </footer>
-```
+    <p>Footer info (Copyright, Author, Year, etc.). No styling.</p>
+</footer>
 
 ## Section
 ```html
@@ -156,12 +163,3 @@ there live the blind texts.
 <div class="class-2">Let's also keep this in a class for easy formatting.</div>
 ```
 
-## Header
-<header class="page-header">
-    <h1>Grouping the intro. No styling.</h1>
-</header>
-
-## Footer
-<footer>
-    <p>Footer info (Copyright, Author, Year, etc.). No styling.</p>
-</footer>
