@@ -1,4 +1,4 @@
-# Contents
+# HTMLCheatsheet
 
 - [Structure](#structure)
     + [Page structure](#page-structure)
